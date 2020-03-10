@@ -205,7 +205,6 @@ header .social li:first-child{
 	height: 320px;
 	background-color: #fbefb3;
 	background-image: url('../hero.jpg');
-	background-size: 100%;
 	background-position: center;
     background-repeat: no-repeat;
 }
