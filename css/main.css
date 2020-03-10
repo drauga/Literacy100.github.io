@@ -203,7 +203,7 @@ header .social li:first-child{
 	position: relative;
 	width: 100%;
 	height: 320px;
-	background-color: #F1E6B2;
+	background-color: #fbefb3;
 	background-image: url('../hero3.jpg');
 	background-position: center;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ a.app_store_btn{
 	position: relative;
 	width: 100%;
 	height: 720px;
-	background-color: #F1E6B2;
+	background-color: #fbefb3;
 	background-image: url('../hero2.jpg');
 	background-size: 70%;
 	background-position: top;
