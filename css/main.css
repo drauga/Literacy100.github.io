@@ -248,7 +248,6 @@ a.app_store_btn{
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	margin: 20px 20px 10px 0;
-
 	color: #000;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
@@ -262,7 +261,8 @@ a.app_store_btn{
 	width: 100%;
 	padding-top: 25px;
 	background: #fff;
-	font-family:  Roboto, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family:  Calibri;
+	font-weight: bold;
 }
 
 .featured_on ul{
